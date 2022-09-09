@@ -1,1 +1,1 @@
-# Pokedex
+# Pokedex feita uzilizando a PokeAPI
